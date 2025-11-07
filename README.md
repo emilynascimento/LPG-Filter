@@ -6,7 +6,7 @@ Esta ferramenta permite a análise em lote, detecção de vales de ressonância 
 
 > Desenvolvido em: **Python 3** | **Tkinter** | **Matplotlib** | **SciPy** | **Pandas**
 
-*[Imagem da interface do aplicativo v12]*
+![Imagem da interface do aplicativo v12](interface.png)
 
 -----
 
