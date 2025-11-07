@@ -1,6 +1,6 @@
 # Filtro Savitzky-Golay para Espectros LPG (v12.0)
 
-Aplicação de desktop em Python (Tkinter + Matplotlib) para carregar, filtrar (Savitzky-Golay) e analisar dados de espectros de fibra óptica (LPGs).
+Aplicação em Python (Tkinter + Matplotlib) para carregar, filtrar (Savitzky-Golay) e analisar dados de espectros de fibra óptica (LPGs).
 
 Esta ferramenta permite a análise em lote, detecção de vales de ressonância e exportação de dados e gráficos para relatórios.
 
